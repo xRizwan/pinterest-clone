@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pinterest-clone/static/css/main.ef30c45b.chunk.css",
+    "main.js": "/pinterest-clone/static/js/main.928f3288.chunk.js",
+    "main.js.map": "/pinterest-clone/static/js/main.928f3288.chunk.js.map",
+    "runtime-main.js": "/pinterest-clone/static/js/runtime-main.9618f6af.js",
+    "runtime-main.js.map": "/pinterest-clone/static/js/runtime-main.9618f6af.js.map",
+    "static/js/2.035168cd.chunk.js": "/pinterest-clone/static/js/2.035168cd.chunk.js",
+    "static/js/2.035168cd.chunk.js.map": "/pinterest-clone/static/js/2.035168cd.chunk.js.map",
+    "index.html": "/pinterest-clone/index.html",
+    "precache-manifest.674348c9caf7a68fbc233d284c1012e1.js": "/pinterest-clone/precache-manifest.674348c9caf7a68fbc233d284c1012e1.js",
+    "service-worker.js": "/pinterest-clone/service-worker.js",
+    "static/css/main.ef30c45b.chunk.css.map": "/pinterest-clone/static/css/main.ef30c45b.chunk.css.map",
+    "static/js/2.035168cd.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.035168cd.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/pinterest-clone/static/media/1.b047be5e.jpg",
+    "static/media/2.jpg": "/pinterest-clone/static/media/2.e1c6b8df.jpg",
+    "static/media/3.jpg": "/pinterest-clone/static/media/3.f36af292.jpg",
+    "static/media/4.jpg": "/pinterest-clone/static/media/4.a5f61f72.jpg",
+    "static/media/5.jpg": "/pinterest-clone/static/media/5.fd6da5c0.jpg",
+    "static/media/6.jpg": "/pinterest-clone/static/media/6.7700c65c.jpg",
+    "static/media/7.jpg": "/pinterest-clone/static/media/7.eece83c3.jpg",
+    "static/media/github-logo.png": "/pinterest-clone/static/media/github-logo.db8e55d7.png",
+    "static/media/logo.svg": "/pinterest-clone/static/media/logo.2ef023c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9618f6af.js",
+    "static/js/2.035168cd.chunk.js",
+    "static/css/main.ef30c45b.chunk.css",
+    "static/js/main.928f3288.chunk.js"
+  ]
+}
