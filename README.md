@@ -1,3 +1,5 @@
+# This is the main app that was created, without any changes made for gh-pages. <br/>
+
 ## Pinterest-Clone
 <br/>
 > Made as the final project for the javascript-section of TheOdinProject.Its a simple social-media website where users can create/save/delete or comment on Pins, instead of the standard way pinterest works i,e (creating boards), the user instead specifies a "main tag" for each pin they create.Users can chat with each other and search for pins as well.
