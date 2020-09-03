@@ -9,6 +9,7 @@
 > Instead of the standard way pinterest works i,e (creating boards), the user instead specifies a "main tag" for each pin they create.
 >
 > Users can chat with each other and search for pins as well.<br/>
+<br/>
 
 ### Main Learing Objectives
 > &nbsp;&nbsp;&nbsp;&nbsp; - Integrating Firebase in React App. <br/><br/>
