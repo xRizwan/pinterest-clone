@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pinterest-clone/static/css/main.ef30c45b.chunk.css",
-    "main.js": "/pinterest-clone/static/js/main.0def7ae7.chunk.js",
-    "main.js.map": "/pinterest-clone/static/js/main.0def7ae7.chunk.js.map",
+    "main.js": "/pinterest-clone/static/js/main.ac322de7.chunk.js",
+    "main.js.map": "/pinterest-clone/static/js/main.ac322de7.chunk.js.map",
     "runtime-main.js": "/pinterest-clone/static/js/runtime-main.9618f6af.js",
     "runtime-main.js.map": "/pinterest-clone/static/js/runtime-main.9618f6af.js.map",
     "static/js/2.035168cd.chunk.js": "/pinterest-clone/static/js/2.035168cd.chunk.js",
     "static/js/2.035168cd.chunk.js.map": "/pinterest-clone/static/js/2.035168cd.chunk.js.map",
     "index.html": "/pinterest-clone/index.html",
-    "precache-manifest.180775033c48566181322aa41614dd41.js": "/pinterest-clone/precache-manifest.180775033c48566181322aa41614dd41.js",
+    "precache-manifest.5c147029e28ee20a507d596bf3a376e9.js": "/pinterest-clone/precache-manifest.5c147029e28ee20a507d596bf3a376e9.js",
     "service-worker.js": "/pinterest-clone/service-worker.js",
     "static/css/main.ef30c45b.chunk.css.map": "/pinterest-clone/static/css/main.ef30c45b.chunk.css.map",
     "static/js/2.035168cd.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.035168cd.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.9618f6af.js",
     "static/js/2.035168cd.chunk.js",
     "static/css/main.ef30c45b.chunk.css",
-    "static/js/main.0def7ae7.chunk.js"
+    "static/js/main.ac322de7.chunk.js"
   ]
 }
