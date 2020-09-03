@@ -1,5 +1,3 @@
-# This is the main app that was created, without any changes made for gh-pages. <br/>
-
 ## Pinterest-Clone
 <br/>
 
