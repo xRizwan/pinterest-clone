@@ -9,7 +9,7 @@ import Main from './Components/Main';
 import PinInfo from './Components/PinInfo';
 import Following from './Components/Following';
 import { useDispatch } from 'react-redux';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import {loginUser, logoutUser, setUid, resetUid} from './actions/';
 import * as firebase from 'firebase/app';
 import UserFollowing from './Components/UserFollowing';
