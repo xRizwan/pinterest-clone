@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc57ef1e715a37c548619c50e2dd3945",
+    "revision": "7b18ee9454e6b36d7a2f978e988a6b5d",
     "url": "/pinterest-clone/index.html"
   },
   {
-    "revision": "435629c1be0c67894b67",
+    "revision": "f3149606cfd6b22f95dd",
     "url": "/pinterest-clone/static/css/main.62facfb6.chunk.css"
   },
   {
-    "revision": "bfd53e864a83905f8d6d",
-    "url": "/pinterest-clone/static/js/2.b63beb5a.chunk.js"
+    "revision": "315af8e5b446556ae264",
+    "url": "/pinterest-clone/static/js/2.035168cd.chunk.js"
   },
   {
     "revision": "d0b13a04dd0dc4c851ad16fad1cc6f51",
-    "url": "/pinterest-clone/static/js/2.b63beb5a.chunk.js.LICENSE.txt"
+    "url": "/pinterest-clone/static/js/2.035168cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "435629c1be0c67894b67",
-    "url": "/pinterest-clone/static/js/main.2b1c78d9.chunk.js"
+    "revision": "f3149606cfd6b22f95dd",
+    "url": "/pinterest-clone/static/js/main.88da866e.chunk.js"
   },
   {
     "revision": "54345d80b9d56879aa32",
