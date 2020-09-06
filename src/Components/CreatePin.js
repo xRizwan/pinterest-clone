@@ -170,6 +170,7 @@ export default function CreatePin(){
                                 ? "Enter Less Than 200 Characters" 
                                 : "Please Dont Leave This Empty";
             aboutErrorRef.current.textContent = text;
+            return;
         }
 
         if(image.invalid || image === ''){
