@@ -1,4 +1,4 @@
-## Pinterest-Clone
+## Pinterest-Clone - WIP (Needs to be more responsive)
 
 Live At : https://xrizwan.github.io/pinterest-clone
 <br/>
